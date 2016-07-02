@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 7bf1a242add13a445a6b85884afa9135
+timeCreated: 1462699986
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: budynke
+    100002: drzwi1
+    100004: drzwi2
+    100006: //RootNode
+    100008: okno
+    100010: okno.001
+    100012: okno.002
+    100014: okno.003
+    100016: okno.004
+    100018: okno.005
+    100020: okno.006
+    100022: okno.007
+    100024: okno.008
+    100026: okno.009
+    100028: okno.010
+    100030: okno.011
+    100032: okno.012
+    100034: okno.013
+    100036: "pod\u0142oga"
+    100038: szklane_drzwi
+    100040: szklane_drzwi.001
+    100042: szklane_drzwi.002
+    100044: szklane_drzwi.003
+    100046: szklane_drzwi.004
+    100048: winda
+    400000: budynke
+    400002: drzwi1
+    400004: drzwi2
+    400006: //RootNode
+    400008: okno
+    400010: okno.001
+    400012: okno.002
+    400014: okno.003
+    400016: okno.004
+    400018: okno.005
+    400020: okno.006
+    400022: okno.007
+    400024: okno.008
+    400026: okno.009
+    400028: okno.010
+    400030: okno.011
+    400032: okno.012
+    400034: okno.013
+    400036: "pod\u0142oga"
+    400038: szklane_drzwi
+    400040: szklane_drzwi.001
+    400042: szklane_drzwi.002
+    400044: szklane_drzwi.003
+    400046: szklane_drzwi.004
+    400048: winda
+    2300000: budynke
+    2300002: drzwi1
+    2300004: drzwi2
+    2300006: okno
+    2300008: okno.001
+    2300010: okno.002
+    2300012: okno.003
+    2300014: okno.004
+    2300016: okno.005
+    2300018: okno.006
+    2300020: okno.007
+    2300022: okno.008
+    2300024: okno.009
+    2300026: okno.010
+    2300028: okno.011
+    2300030: okno.012
+    2300032: okno.013
+    2300034: "pod\u0142oga"
+    2300036: szklane_drzwi
+    2300038: szklane_drzwi.001
+    2300040: szklane_drzwi.002
+    2300042: szklane_drzwi.003
+    2300044: szklane_drzwi.004
+    2300046: winda
+    3300000: budynke
+    3300002: drzwi1
+    3300004: drzwi2
+    3300006: okno
+    3300008: okno.001
+    3300010: okno.002
+    3300012: okno.003
+    3300014: okno.004
+    3300016: okno.005
+    3300018: okno.006
+    3300020: okno.007
+    3300022: okno.008
+    3300024: okno.009
+    3300026: okno.010
+    3300028: okno.011
+    3300030: okno.012
+    3300032: okno.013
+    3300034: "pod\u0142oga"
+    3300036: szklane_drzwi
+    3300038: szklane_drzwi.001
+    3300040: szklane_drzwi.002
+    3300042: szklane_drzwi.003
+    3300044: szklane_drzwi.004
+    3300046: winda
+    4300000: okno
+    4300002: drzwi2
+    4300004: drzwi1
+    4300006: szklane_drzwi
+    4300008: winda
+    4300010: "pod\u0142oga"
+    4300012: budynke
+    4300014: szklane_drzwi.001
+    4300016: szklane_drzwi.002
+    4300018: szklane_drzwi.003
+    4300020: szklane_drzwi.004
+    4300022: okno.001
+    4300024: okno.002
+    4300026: okno.003
+    4300028: okno.004
+    4300030: okno.005
+    4300032: okno.006
+    4300034: okno.007
+    4300036: okno.008
+    4300038: okno.009
+    4300040: okno.010
+    4300042: okno.011
+    4300044: okno.012
+    4300046: okno.013
+    6400000: budynke
+    6400002: drzwi1
+    6400004: drzwi2
+    6400006: okno
+    6400008: okno.001
+    6400010: okno.002
+    6400012: okno.003
+    6400014: okno.004
+    6400016: okno.005
+    6400018: okno.006
+    6400020: okno.007
+    6400022: okno.008
+    6400024: okno.009
+    6400026: okno.010
+    6400028: okno.011
+    6400030: okno.012
+    6400032: okno.013
+    6400034: "pod\u0142oga"
+    6400036: szklane_drzwi
+    6400038: szklane_drzwi.001
+    6400040: szklane_drzwi.002
+    6400042: szklane_drzwi.003
+    6400044: szklane_drzwi.004
+    6400046: winda
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

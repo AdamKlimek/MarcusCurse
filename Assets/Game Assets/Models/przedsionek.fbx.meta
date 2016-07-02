@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: c282b55f22b64134eaa4a9011658686a
+timeCreated: 1462609854
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: PIN
+    100002: Plane
+    100004: podloga
+    100006: //RootNode
+    100008: szklane drzwi
+    100010: szklane drzwi.001
+    100012: szklane drzwi.002
+    100014: szklane drzwi.003
+    100016: szklane drzwi.004
+    100018: winda
+    100020: wyjscie
+    100022: wyjscie.001
+    400000: PIN
+    400002: Plane
+    400004: podloga
+    400006: //RootNode
+    400008: szklane drzwi
+    400010: szklane drzwi.001
+    400012: szklane drzwi.002
+    400014: szklane drzwi.003
+    400016: szklane drzwi.004
+    400018: winda
+    400020: wyjscie
+    400022: wyjscie.001
+    2300000: PIN
+    2300002: Plane
+    2300004: podloga
+    2300006: szklane drzwi
+    2300008: szklane drzwi.001
+    2300010: szklane drzwi.002
+    2300012: szklane drzwi.003
+    2300014: szklane drzwi.004
+    2300016: winda
+    2300018: wyjscie
+    2300020: wyjscie.001
+    3300000: PIN
+    3300002: Plane
+    3300004: podloga
+    3300006: szklane drzwi
+    3300008: szklane drzwi.001
+    3300010: szklane drzwi.002
+    3300012: szklane drzwi.003
+    3300014: szklane drzwi.004
+    3300016: winda
+    3300018: wyjscie
+    3300020: wyjscie.001
+    4300000: podloga
+    4300002: PIN
+    4300004: wyjscie
+    4300006: szklane drzwi
+    4300008: winda
+    4300010: Plane
+    4300012: szklane drzwi.001
+    4300014: szklane drzwi.002
+    4300016: szklane drzwi.003
+    4300018: wyjscie.001
+    4300020: szklane drzwi.004
+    6400000: PIN
+    6400002: Plane
+    6400004: podloga
+    6400006: szklane drzwi
+    6400008: szklane drzwi.001
+    6400010: szklane drzwi.002
+    6400012: szklane drzwi.003
+    6400014: szklane drzwi.004
+    6400016: winda
+    6400018: wyjscie
+    6400020: wyjscie.001
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 60f58d628f9d0cd45b1a555fb073aa9d
+timeCreated: 1461333382
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: drzwi
+    100004: drzwi na parter
+    100006: drzwi.001
+    100008: drzwi2
+    100010: drzwi2.001
+    100012: Lamp
+    100014: okno
+    100016: okno.001
+    100018: Plane
+    100020: plane
+    100022: Plane.001
+    100024: //RootNode
+    100026: schody
+    100028: szklane
+    100030: szklane.001
+    100032: winda
+    400000: Camera
+    400002: drzwi
+    400004: drzwi na parter
+    400006: drzwi.001
+    400008: drzwi2
+    400010: drzwi2.001
+    400012: Lamp
+    400014: okno
+    400016: okno.001
+    400018: Plane
+    400020: plane
+    400022: Plane.001
+    400024: //RootNode
+    400026: schody
+    400028: szklane
+    400030: szklane.001
+    400032: winda
+    2300000: drzwi
+    2300002: drzwi na parter
+    2300004: drzwi.001
+    2300006: drzwi2
+    2300008: drzwi2.001
+    2300010: okno
+    2300012: okno.001
+    2300014: Plane
+    2300016: plane
+    2300018: Plane.001
+    2300020: schody
+    2300022: szklane
+    2300024: szklane.001
+    2300026: winda
+    3300000: drzwi
+    3300002: drzwi na parter
+    3300004: drzwi.001
+    3300006: drzwi2
+    3300008: drzwi2.001
+    3300010: okno
+    3300012: okno.001
+    3300014: Plane
+    3300016: plane
+    3300018: Plane.001
+    3300020: schody
+    3300022: szklane
+    3300024: szklane.001
+    3300026: winda
+    4300000: Plane.001
+    4300002: szklane.001
+    4300004: drzwi2.001
+    4300006: drzwi.001
+    4300008: drzwi na parter
+    4300010: Plane
+    4300012: schody
+    4300014: szklane
+    4300016: winda
+    4300018: okno
+    4300020: okno.001
+    4300022: drzwi2
+    4300024: drzwi
+    4300026: plane
+    6400000: drzwi
+    6400002: drzwi na parter
+    6400004: drzwi.001
+    6400006: drzwi2
+    6400008: drzwi2.001
+    6400010: okno
+    6400012: okno.001
+    6400014: Plane
+    6400016: plane
+    6400018: Plane.001
+    6400020: schody
+    6400022: szklane
+    6400024: szklane.001
+    6400026: winda
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
